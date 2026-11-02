@@ -1,0 +1,7 @@
+Security Policy
+
+Multi-factor authentication is required for all privileged accounts.
+Passwords must be at least 12 characters long.
+Customer data must not be shared externally without authorisation.
+Security incidents must be reported within 24 hours.
+All systems must be patched according to approved maintenance schedules.

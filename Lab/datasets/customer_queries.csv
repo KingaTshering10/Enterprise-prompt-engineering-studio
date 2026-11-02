@@ -1,0 +1,11 @@
+query_id,category,priority,customer_issue,status
+1001,Billing,High,Invoice charged twice for June subscription,Open
+1002,Technical,Medium,Unable to reset password using self-service portal,Open
+1003,Shipping,Low,Need delivery status for order OR-77821,Closed
+1004,Account,High,Account locked after multiple login attempts,Open
+1005,Technical,Critical,Application crashes when uploading large files,Escalated
+1006,Billing,Medium,Request refund for cancelled service,Open
+1007,Product,Low,Question about product compatibility,Open
+1008,Technical,High,API returning authentication errors,Escalated
+1009,Shipping,Medium,Package delivered to wrong address,Open
+1010,Account,Low,Update contact information on account,Closed

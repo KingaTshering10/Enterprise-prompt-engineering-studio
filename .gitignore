@@ -1,0 +1,15 @@
+# macOS and Office temporary files
+.DS_Store
+__MACOSX/
+._*
+~$*
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Personal practice responses and local experiments
+practice-output/

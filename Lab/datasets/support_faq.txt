@@ -1,0 +1,7 @@
+Support FAQ
+
+Password Reset: Users can reset passwords through the self-service portal.
+Refund Policy: Refund requests are eligible within 30 days of cancellation.
+Account Lockout: Locked accounts can be unlocked after identity verification.
+API Authentication: Verify API key validity and token expiration.
+Shipping Issues: Delivery disputes must be investigated with the logistics team.

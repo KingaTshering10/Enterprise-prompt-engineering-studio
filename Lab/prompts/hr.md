@@ -1,0 +1,1 @@
+Based on the HR policy, answer employee questions regarding annual leave, sick leave, parental leave, and performance evaluation schedules in a professional tone.
